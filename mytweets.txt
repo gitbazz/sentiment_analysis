@@ -1,0 +1,8 @@
+[24.660845, -87.518395] 6 2011-08-28 19:02:36 a alone regret sad need best
+[24.660845, -87.518395] 6 2011-08-28 19:02:36 a alone regret sad need best
+[25, -101.998892] 6 2011-08-28 19:02:36 a alone regret sad need best
+[24.660845, -101.9988921] 6 2011-08-28 19:02:36 a alone regret sad need best
+[24.660845, -125.24226] 6 2011-08-28 19:02:36 a alone regret sad need best
+[24.660845, -87.518395] 6 2011-08-28 19:02:36 a alone regret sad need best
+[24.660845, -87.518395] 6 2011-08-28 19:02:36 a alone regret sad need best
+
